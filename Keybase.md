@@ -1,3 +1,14 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am omergultekin on github.
+  * I am omergultekin (https://keybase.io/omergultekin) on keybase.
+  * I have a public key ASCb_F0gbLWnzsMVve6B7wZyhnNQEwEsiZgLf3MylkUUWwo
+
+To claim this, I am signing this object:
+
+```json
 {
   "body": {
     "key": {
@@ -31,3 +42,26 @@
   "seqno": 34,
   "tag": "signature"
 }
+```
+
+with the key [ASCb_F0gbLWnzsMVve6B7wZyhnNQEwEsiZgLf3MylkUUWwo](https://keybase.io/omergultekin), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm/xdIGy1p87DFb3uge8GcoZzUBMBLImYC39zMpZFFFsKp3BheWxvYWTESpcCIsQgBOQX1xsIaYvYeeSz9i8WLZbBZfNC7h3b46/nXIaptvzEIFjYrLS1kUogO6c+yJdVL4kvPbmpd3meINGFvBVbi7LwAgHCo3NpZ8RAb6n3gmSohF12fQzjuKpAPWALHPsMqJHvGG5nXW2/ZXqKQmZU0eTfWCD8DkAoAA9jLk+BiWbWveJCE3ZhbwlKDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP9QU2FHKEq/PLebbdDgmyyqZ9lUbGnj2EdSLVAxq2SJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/omergultekin
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id omergultekin
+```
